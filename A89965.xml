@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A nevv directory: compiled by these most grave, venerable, and orthodox divines: videlicet. Wyat the cobler. Ford the trumpetter. Dupper the cow-keeper. Bulcher the chicken-man. Patience the tayler, &amp;c. Wherein it doth appeare, that manuall practitioners may very probably be, and produce the best proficients in divinity.</title>
+         </titleStmt>
+         <extent>Approx. 13 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A89965</idno><idno type="EEBO-CITATION">99862403</idno>
+  <idno type="VID">160492</idno>
+  <idno type="EEBO-PROQUEST">2240950524</idno>
+  
+            <idno type="STC">Wing N620</idno>
+            <idno type="STC">Thomason E406_15</idno>
+            <idno type="STC">ESTC R201921</idno>
+            <idno type="PROQUEST">99862403</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99862403e"/>
+            <note>(EEBO-TCP ; phase 2, no. A89965)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 160492)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 64:E406[15])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A nevv directory: compiled by these most grave, venerable, and orthodox divines: videlicet. Wyat the cobler. Ford the trumpetter. Dupper the cow-keeper. Bulcher the chicken-man. Patience the tayler, &amp;c. Wherein it doth appeare, that manuall practitioners may very probably be, and produce the best proficients in divinity.</title>
+                  <author>Wyat, the cobler.</author>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>Printed in the yeere 1647.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Wyat, Ford, etc. are pseudonyms.</note>
+                  <note>Place of publication from Wing.</note>
+                  <note>A satire.</note>
+                  <note>Annotation on Thomason copy: "7ber the 10th".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Religious satire, English --  17th century.</term>
+               <term type="geographic_name">Great Britain --  Church history --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-06 </date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-10 </date>
+            <label>Maria Cecilia Caride </label>Sampled and proofread </change>
+         <change>
+            <date>2014-10 </date>
+            <label>Maria Cecilia Caride</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:160492:1"/>
+            <p> A NEVV DIRECTORY: Compiled by these most grave, ve<g ref="char:EOLhyphen"/>nerable, and Orthodox Divines: <hi>Videlicet.</hi>
+            </p>
+            <list>
+               <item>
+                  <hi>Wyat</hi> the Cobler.</item>
+               <item>
+                  <hi>Ford</hi> the Trumpetter.</item>
+               <item>
+                  <hi>Dupper</hi> the Cow-Keeper.</item>
+               <item>
+                  <hi>Bulcher</hi> the Chicken-man.</item>
+               <item>
+                  <hi>Patience</hi> the Tayler, &amp;c.</item>
+            </list>
+            <p>Wherein it doth appeare, that manuall practi<g ref="char:EOLhyphen"/>tioners may very probably be, and produce the best proficients in Divinity.</p>
+            <p>Printed in the Yeere 1647.</p>
+            <pb facs="tcp:160492:2"/>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:160492:2"/>
+            <head>A New Directory.</head>
+            <p>
+               <seg rend="decorInit">A</seg>S I doe not Idolize Learning, so I conceive it no way tolerable, that an illiterate Minister should be spurnd into the abstract of infamy; because conscience doth transcend science, being sooner reduced into practice. There<g ref="char:EOLhyphen"/>fore give attention to Goodman <hi>Wiat.</hi>
+            </p>
+            <div type="part">
+               <head>
+                  <hi>Wiat</hi> the Cobler.</head>
+               <p>ALL ye, beloved Mechanickes, members of our mysticall corporation, with a great deale of supernaturall solace and rejoycing, may it be spoken: The people of this poore distracted Kingdome doe not tread so much a wry as formerly they did, but now wax more and more upright. Me thinkes I see both the Universities of Oxford and Cambridge (although their Surplices are out of fashion) stand very decently in a white sheet to suffer penance, for committing of Poultry on the priviledge of conscience, being of late bound over to the Hollands Leaguer of the Whore of Babylon: O how provi<g ref="char:EOLhyphen"/>dentially hath the Whitligig of these latter dayes, hooped the constitution of Church Government, into Cubicle Congre<g ref="char:EOLhyphen"/>gations, or equivalent Tubs: One Ecclesiasticall Pewe may now serve for a Pulpit, and a Parish Church, oeconomicall or of a Family fashion; for take this for an infallible position, the closer the Consistory▪ the better Conventicle; but what may the ignorant soule say, how can this agree to liberty of conscience to be so crowded, notwithstanding our meane naturall sence will give him the lie?</p>
+               <p>Beloved there are three things conducible to the watring of the yonger plants of our sisterhood, they being the weaker vessells may quickly leake into a certaine barrennesse.</p>
+               <list>
+                  <pb n="2" facs="tcp:160492:3"/>
+                  <item>1. An hearty exercise.</item>
+                  <item>2. An hansome edification.</item>
+                  <item>3. An humble or downeright dealing.</item>
+               </list>
+               <p>First, of the first, which is twofold: inward and outward.</p>
+               <p n="1">1. Inward, belonging to the three principall parts, as the 1. animal, 2. vitall, and 3. naturall: the first is that of the brains or head, which hath beene much beaten or impayred in exer<g ref="char:EOLhyphen"/>cising of you in particular, and in reference to the publike in Translating of Religion, into Liberty of Conscience; which at this time stands upright, although it hath but a single sole: the two last being of the heart and liver, contribute much to the sensitive organs, for the tuning of your mysticall bagpipes. We can handle no point materially without this hearty exer<g ref="char:EOLhyphen"/>cise. 2. The outward exercise belongs to the officiall mem<g ref="char:EOLhyphen"/>bers, as hands, feet, or as many more as you like, being carn<g ref="char:EOLhyphen"/>all, would not burden your memories, nor have you underlaid thereby, and the wicked which are without, are All in All ad<g ref="char:EOLhyphen"/>dicted thereunto.</p>
+               <p n="2">2. Handsome edification, not meaning your Parochiall preaching Presbytery, which is Scotisticall, and so altogether sophisticall; but to bring you on the mending hand by appro<g ref="char:EOLhyphen"/>priate spirit of <hi>ex tempore</hi> infusion, withall gently sowing toge<g ref="char:EOLhyphen"/>ther the upper and lower Leather of soule and body, which hath beene wonderfully unwelted these times of Division: for how have distractions beene multiplied since our helping to pull downe the golden Calfe of the Common Prayer Booke, and made that Balaams Asse of the Directory shamefully re<g ref="char:EOLhyphen"/>treat? But to the third particular.</p>
+               <p n="3">3. An humble and downeright dealing. As were it not for a downeright trading in the way of motion, our trade would quickly be brought to its last, so if you assume any po<g ref="char:EOLhyphen"/>sture but that of humility naturall, though you be backward in it to, you are as creatures without soles.</p>
+            </div>
+            <div type="part">
+               <pb n="3" facs="tcp:160492:3"/>
+               <head>
+                  <hi>Ford</hi> the Trumpeter.</head>
+               <p>PArdon me brethren and sisters, if by Revelation I rowse up your senses; I must tell you that I am so infused with a spirit of the lungs or a long winded spirit, that I must make a little noyse before you this day, the gift of utterance was late<g ref="char:EOLhyphen"/>ly put upon me, therefore let me make bold to put into you the gift of entrance: our proposition shall be negative, and by way of a caveat (be not blowne a way with every winde of Doctrine:) First, there are foure windes, which the Popish Writers call Cardinall, these doubtlesse ye know; but are not meant heere.</p>
+               <p>2. Corporall, which cannot have reference to our do<g ref="char:EOLhyphen"/>ctrinall winde, because every one doth voluntarily and natu<g ref="char:EOLhyphen"/>rally expell it, having no need of a proviso.</p>
+               <p>3. Incorporeall, or spirituall, which is heere represented: as much as if I should say, take heed of the prophane puffe of every spirit, but more especially of a Presbyteriall one; for I am to tell you, that as our Tubs are hollow artificially, so are their hearts metaphorically. Beware lest ye be seduced into the most damnable concavity of their Pulpits: for my part I can sound the depth of their devices: let me speak, Me thinks I could entertaine any wind of doctrine before theirs; it is so canonically constituted by way of Directory, directly in opposition to us, I could willingly sound a day of judgement for the major part of them, together with both Houses, who sit and sit, but will not walke according to our divine moti<g ref="char:EOLhyphen"/>ons, who doe not only breath by the ayre, but live by the spi<g ref="char:EOLhyphen"/>rit, yet they shall be forced to stand to some thing: [pray you sister doe not sleepe.] I will wind up all with one use: Bee constant and confirmd in your opinion, frequent our humble cottages or cubicle, and avoyd Temples which are so high, exposed to so many blasts.</p>
+            </div>
+            <div type="part">
+               <pb n="4" facs="tcp:160492:4"/>
+               <head>
+                  <hi>Dupper</hi> the Cowkeeper.</head>
+               <p>YOU my goodly flocke, who are not unlike, (let me pre<g ref="char:EOLhyphen"/>sume by way of comparison) unto those of my well favou<g ref="char:EOLhyphen"/>red Kine: I am to set before you a messe of Metaphoricall milke this day: The title of a Pastor being of the Latine trans<g ref="char:EOLhyphen"/>lation came from Rome, therefore I abominate it as Catholick, and you may call me as I am; for the great gift of exercising doth much relate our function, and it being our practicall pro<g ref="char:EOLhyphen"/>fession to prevent the going astray of the greater Cattell, doe you thinke wee can have the heart to see our little flocke of harmelesse sheepe erre? no beloved (any of you may milke a Bull as soone) so that it remaines in our power to congregate; but had it not beene for the great Engine of our late happy ga<g ref="char:EOLhyphen"/>thering together, you all had beene simply converted from sincere sucking Lambs into meere sophisticated Owles, dis<g ref="char:EOLhyphen"/>persed throughout the Desert of desolation; and Satanically shephearded by Presbyterian policy, perhaps driven into the dirty ditch of Popish profanation: Howsoever the contrary condition being atcheived, O how I could with the armes of amity embrace your full flecced felicity, and with triumphant acclamations charme your almost eternal residence in my fold or mysticall Cowpen; But I had almost forgot my Doctrine which is this, seperate your selves, and be yee gathered toge<g ref="char:EOLhyphen"/>ther, which seemes to be a contradiction; therefore we will <gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>osse a disti<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ction unto you, which hath in a manner two <gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ornes, as belonging to the ten horned beasts of Rome, being Latinisticall; but by our application may be sanctified: There is a two fold seperation, and gathering together locall or vo<g ref="char:EOLhyphen"/>call in respect of place, &amp; of voice or opinions; in reference to both which, there must be an holy going away from, and an hearty detestation of the very scituation and denomination of a Presbyter, or <hi>Jockies</hi> little Divell incarnate (which my bro<g ref="char:EOLhyphen"/>ther <hi>Trumpe</hi> noised forth to you very well) and be ye congre<g ref="char:EOLhyphen"/>gated by divine suffrages, devout speeches, be saintlike syno<g ref="char:EOLhyphen"/>nimous as they say, vellebally and mentally as they say (Hum)
+<pb n="5" facs="tcp:160492:4"/> that lastly wee may be united into a head, as they say of Cattle, and our hornes exalted for ever.</p>
+            </div>
+            <div type="part">
+               <head>
+                  <hi>Bulcher</hi> the Chickenman.</head>
+               <p>MY sweet and prity Chickes, let me flutter a word or two about you, and I shall not be too tedious, but winged in dispatch: My Text is this: <hi>Be alive to us, but dead unto the world;</hi> as I according to profession carry these infantine P<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ultry dead or alive; so doe men and women, young and old, in their transitory actions carry themselves as if they were alive or dead; but few in a right sence, the carnall man gives up the ghost to all goodnesse; yet is not dead to the would, the drunkard hath hardly sence to demonstrate his being; yet is alive in that sence, the very formall Presbyter though he act not as wee doe by the spirit; yet he takes breath; but this is the meaning in the way of similitude, as my dead Chickens are unnaturally dead to those that naturally live in the world; so be you spiritually dead to those that carnally live to the world, and as those that are living be alive to each other, though conjoyned to the dead for secular profit; so let your spirits be the same by lively infusion, and private revelation with ours; notwithstanding a mutuall commerce with the world for the pecking up the common crums of substitance for economicall subsistence; but my blessed bro<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>d, I am a<g ref="char:EOLhyphen"/>fraid I have carryed you to far, therefore here ile leave you.</p>
+            </div>
+            <div type="part">
+               <head>
+                  <hi>Patience</hi> the Taylour.</head>
+               <p>Have patience beloved and I will cut out a spirituall peece of stuffe for you, having already taken measure of most of your consciences since our late blessed victory over Principali<g ref="char:EOLhyphen"/>ties and Powers, which were risen up against us, but more e<g ref="char:EOLhyphen"/>specially my selfe, whom most impatiently they supprized, and had almost pulled; nay martyred or massacred into meere shreds; but now me thinkes I see a vision, our adversaries sitting crosse legged on the shopboard of despaite, and so rent
+<pb n="6" facs="tcp:160492:5"/> asunder from their late expectations, that time will scarce stitch them together againe with the needle of invention; but to the point, which is by way of instruction (Have pati<g ref="char:EOLhyphen"/>ence and I will pay you all) the first that may the more proper<g ref="char:EOLhyphen"/>ly be▪spoken to our adversaries who are now the Subjects of suffering; the second to our friends who are behind in ar<g ref="char:EOLhyphen"/>reares; but of the first, suppose that the sheeres of persecution should in a manner clip, (beloved, soule from body) <hi>Patience</hi> would quickly peece them together againe, all other morall vertues are but like so many inferiour Botchers to her; but a word of patience as it relates to our adversaries. (O blessed Ar<g ref="char:EOLhyphen"/>my) how doe the Saints now make pack-horses of the sinfull, and presse the rich worldlings for hacknies by way of Evange<g ref="char:EOLhyphen"/>licall extortion, ever since the great shout in Southwarke, which sounded in my eares next to an Hallelujah? our London hath had very much neede of patience, I warrant you to bere<g ref="char:EOLhyphen"/>venged they would forfeit the Charter of Bartholomew Faire, for their greene goose. I protest although I had the gift of patience, yet I would scarce have the patience to exercise that gift, in such cases of such contradictions; yet have pati<g ref="char:EOLhyphen"/>ence, be yee suted therewith, it is the only fashion which now becomes both the outward and inward man; likewise the overture of a cloake made out of the same peece would be very expedient, both to ecclipse the glimpse of an angry looke upon us saints, or to vaile a frowne by way of mufling, each of which although they could not hazard an inditement, before the Magistrate, yet they would be so agravated, that you must be summoned for high misdemeanours, but have pa<g ref="char:EOLhyphen"/>tience: Now a word of the second that which is the ground of our request, and I will pay you all, in reference to arreares; but mistake me not, the ground is not so large to pay all upon it, but the meaning is you shall be paid all, that is some of you, most high and holy have all, for all, or thus, all for some of you, but none for all of you: This is all that I can give you for the present, but have patience and I will pay you all.</p>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
